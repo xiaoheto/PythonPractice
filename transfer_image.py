@@ -1,10 +1,10 @@
 from PIL import Image
 
-input_path = "images/mei_source.png"
-output_path = "images/mei.bmp"
+input_path = "images/moli_source.png"
+output_path = "images/moli.bmp"
 
 # 2. 目标的尺寸和背景颜色 (F0FFFF - 242550, 255, 255)
-target_size = (60, 48)
+target_size = (60, 58)
 target_bg_color = (255, 255, 255)
 
 try:
